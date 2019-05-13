@@ -1,0 +1,49 @@
+/*****************************TAG SELECTORS********************************/
+  body {
+    background-color: #f2eee0;
+  }
+
+  h1{
+  color:#5ca0d3;
+  }
+
+  h3{
+    color:#113f67;
+  }
+
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+  }
+
+  img {
+    height: 175px;
+  }
+
+  /* si pones img hover{
+  background-color: ;
+} al poner el cursor sobre la imagen cambiara de color.  */
+
+/*******************************ClASS SELECTOR*************************
+
+los selectores se escriben como
+<img class="nombre" src="enlace de imagen" alt="nombre optativo sino carga imagen" />
+
+*/
+
+.Yoga{
+  background-color: grey;
+}
+
+.circular{
+  border-radius: 100%;
+}
+
+/*******************************CLASS ID**********************************/
+
+#heading {
+  color: #305f72
+}
